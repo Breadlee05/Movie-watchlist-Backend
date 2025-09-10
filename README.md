@@ -50,6 +50,6 @@ The frontend for this project is here:
 https://github.com/Breadlee05/Movie-watchlist-Frontend
 
 👨‍💻 Author
-Breadlee p
+P.Breadlee 
 GitHub: https://github.com/Breadlee05
 Portfolio: https://breadlee-portfolio.vercel.app/
