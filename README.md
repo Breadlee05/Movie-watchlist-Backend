@@ -7,7 +7,7 @@ It handles user authentication, watchlist management, and integrates with the **
 
 ## 🔗 Live API
 
-Base URL: [https://movie-watchlist-backend-ksvq.onrender.com](https://movie-watchlist-backend-ksvq.onrender.com)  
+Base URL:(https://movie-watchlist-backend-ksvq.onrender.com)  
  
 Deployment 
 This project is deployed on Vercel:
